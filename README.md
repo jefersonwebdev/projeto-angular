@@ -1,11 +1,11 @@
-# projeto-angular
+# PROJETO ANGULAR
 
-Página de links criada para compartilhar links na bio da rede social.
+Aplicativo web feito em Angular .
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Link da Bio**
-| :label: Tecnologias | ![Descrição adicional opcional](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+| :sparkles: Nome        | **Projeto Angular**
+| :label: Tecnologias | ![Descrição adicional opcional](https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-css3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-angular-fa2c05?logo=angular&logoColor=white&style=for-the-badge) ![Descrição adicional opcional](https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 | :fire: Características     | ![Descrição adicional opcional](https://img.shields.io/badge/Responsivo-999999)
 | :rocket: URL         | https://projeto-angular-one.vercel.app/
 
